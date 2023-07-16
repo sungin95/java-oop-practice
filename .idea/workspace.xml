@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c5aba96-215b-470e-85ff-b46da86ac5cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RandomPasswordGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/password/RandomPasswordGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689409651681</updated>
       <workItem from="1689409652721" duration="8646000" />
-      <workItem from="1689476809623" duration="8510000" />
+      <workItem from="1689476809623" duration="10167000" />
     </task>
     <servers />
   </component>
