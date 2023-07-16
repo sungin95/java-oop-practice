@@ -21,7 +21,7 @@ public class PasswordValidatorTest {
     }
 
     @DisplayName("비밀번호가 8자 미만 또는 12자 초과하는 경우 IllegalArgumentException 예외가 발생")
-    @ParameterizedTest
+    @ParameterizedTest // 링크 클릭하면 공식문서를 통해 다양한 활용법을 알 수 있다.
     @ValueSource(strings = {"aabbcce", "aabbccddeeffg"})
     void validatePasswordTest2(String password) {
         assertThatCode(() -> PasswordValidator.validate(password))
