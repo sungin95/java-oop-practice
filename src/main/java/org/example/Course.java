@@ -10,10 +10,14 @@ public class Course {
         this.credit = credit;
         this.grade = grade;
     }
+    public double multiplyCreditAndCouseGrade() {
+        return credit * getGradeToNumber();
+    }
 
     public int getCredit() {
         return credit;
     }
+
 
     public double getGradeToNumber() {
         double grade = 0;
@@ -39,4 +43,6 @@ public class Course {
         }
         return grade;
     }
+
+
 }
