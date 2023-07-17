@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c5aba96-215b-470e-85ff-b46da86ac5cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculate/AdditionOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculate/DivisionOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculate/MultiplicationOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculate/NewArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/calculate/SubtractionOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArithmeticOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/password/RandomPasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CorrectFixedPasswordGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/PasswordValidatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/WrongFixedPasswordGenerator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +93,7 @@
       <module name="oop-practce.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.calculate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,7 +108,7 @@
       <module name="oop-practce.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.calculate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,7 +124,7 @@
       <module name="oop-practce.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.calculate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +140,7 @@
       <module name="oop-practce.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.calculate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,7 +187,7 @@
       <updated>1689409651681</updated>
       <workItem from="1689409652721" duration="8646000" />
       <workItem from="1689476809623" duration="11860000" />
-      <workItem from="1689557446447" duration="7429000" />
+      <workItem from="1689557446447" duration="15434000" />
     </task>
     <servers />
   </component>
