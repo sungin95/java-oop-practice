@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c5aba96-215b-470e-85ff-b46da86ac5cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Courses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GradeCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CourseTest">
+  <component name="RunManager" selected="JUnit.GradeCalculatorTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="oop-practce.test" />
       <extension name="coverage">
@@ -101,6 +101,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.CourseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oop-practce.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GradeCalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,29 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNumberTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="oop-practce.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.PositiveNumberTest" />
-      <option name="METHOD_NAME" value="createTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CourseTest" />
+        <item itemvalue="JUnit.GradeCalculatorTest" />
         <item itemvalue="JUnit.GradeCalculatorTest.calculateGradeTest" />
+        <item itemvalue="JUnit.CourseTest" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.PositiveNumberTest" />
-        <item itemvalue="JUnit.PositiveNumberTest.createTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,7 @@
       <workItem from="1689409652721" duration="8646000" />
       <workItem from="1689476809623" duration="11860000" />
       <workItem from="1689557446447" duration="19786000" />
-      <workItem from="1689587808484" duration="6699000" />
+      <workItem from="1689587808484" duration="7849000" />
     </task>
     <servers />
   </component>
